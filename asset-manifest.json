@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Admin-Panel/static/css/main.63b7c8df.css",
+    "main.js": "/Admin-Panel/static/js/main.5f7c4e76.js",
+    "static/media/img1.png": "/Admin-Panel/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/Admin-Panel/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/Admin-Panel/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/Admin-Panel/index.html",
+    "main.63b7c8df.css.map": "/Admin-Panel/static/css/main.63b7c8df.css.map",
+    "main.5f7c4e76.js.map": "/Admin-Panel/static/js/main.5f7c4e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b7c8df.css",
+    "static/js/main.5f7c4e76.js"
+  ]
+}
